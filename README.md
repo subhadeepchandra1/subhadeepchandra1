@@ -9,7 +9,7 @@
 
 <h3 align="center"> 🙋🏽‍♂️About Me </h3>
 <p align="center"> <samp> 
-   I am a Competitive Programmer and Web Developer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities. Currently enrolled in Computer Science and Engineering Programmer at the National Institute of Technology, Durgapur. 
+   I am a Competitive Programmer and Web Developer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities. Currently enrolled in Information Technology (CSE) Programme at the National Institute of Technology, Durgapur. 
   
   </samp>
 </p><br>
@@ -51,13 +51,17 @@
 <img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" />
 </p>
 <p>
+  
+ <!--
 <img src="https://media.giphy.com/media/xT0xeOGAGEAuQK1ujm/giphy.gif" width="150" />
+
+-->
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
   </p>
 
-
+<!--
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
-
+-->
 <!--
 **subhadeepchandra1/subhadeepchandra1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
