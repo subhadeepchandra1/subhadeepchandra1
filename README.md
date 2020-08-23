@@ -38,7 +38,7 @@
 <p align="center">
 <br>
   <code><a alt="Codechef" href="https://www.codechef.com/users/subhadeep_nit"><img height="50" src="https://simpleicons.org/icons/codechef.svg"></a></code>&nbsp;&nbsp;
-  <code><a alt="Codeforces href="https://codeforces.com/profile/subhadeepchandra1"><img height="50" src="https://simpleicons.org/icons/codeforces.svg"></a></code>&nbsp;&nbsp;
+  <code><a alt="Codeforces" href="https://codeforces.com/profile/subhadeepchandra1"><img height="50" src="https://simpleicons.org/icons/codeforces.svg"></a></code>&nbsp;&nbsp;
 </p><br>
 
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=subhadeepchandra1.subhadeepchandra1" /></h3><br>
