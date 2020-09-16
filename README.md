@@ -55,17 +55,6 @@
   <a href="mailto:subhadeepchandra1@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<br><br><br>
-<p align="center"> 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/uses-html.svg" />
-<img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" />
-</p>
-<p>
-  
-
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-  </p>
 
 <!--
 **subhadeepchandra1/subhadeepchandra1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
