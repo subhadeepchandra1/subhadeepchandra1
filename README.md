@@ -31,23 +31,6 @@
   <code><img height="50" src="https://simpleicons.org/icons/react.svg"></code>&nbsp;&nbsp;
 </p><br>
 
-<h3 align="center"> 💻Secondary Tech Stack </h3>
-<p align="center">
-<br>
-  <code><img height="50" src="https://simpleicons.org/icons/sass.svg"></code>&nbsp;&nbsp;
-  <code><img height="50" src="https://simpleicons.org/icons/gnubash.svg"></code>&nbsp;&nbsp;
-  <code><img height="50" src="https://simpleicons.org/icons/bootstrap.svg"></code>&nbsp;&nbsp;
-  <code><img height="50" src="https://simpleicons.org/icons/postgresql.svg"></code>&nbsp;&nbsp;
-</p><br>
-
-<!--
-<h3 align="center">  🌱Learning </h3>
-<p align="center">
-<br>
-  <code><img height="50" src="https://simpleicons.org/icons/graphql.svg"></code>&nbsp;&nbsp;
-  <code><img height="50" src="https://simpleicons.org/icons/socket-dot-io.svg"></code>&nbsp;&nbsp;
-</p><br>  -->
-
 <h3  align='center'>Find me around the web 🌎 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=subhadeepchandra1.subhadeepchandra1" /></h3><br>
 
 <p align='center'>
