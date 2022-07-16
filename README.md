@@ -6,7 +6,7 @@
 
 <h3 align="center"> 🙋🏽‍♂️About Me </h3>
 <p align="center"> <samp> 
-   I am a Competitive Programmer and Web Developer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities. Currently enrolled in Information Technology (CSE) Programme at the National Institute of Technology, Durgapur and working as a SDE Intern at OYO. 
+   I am a Competitive Programmer and Web Developer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities. Currently enrolled in Information Technology (CSE) Programme at the National Institute of Technology, Durgapur and working as a SDE at Amazon. 
   
   </samp>
 </p><br>
